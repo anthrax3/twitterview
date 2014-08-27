@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Learn by Teaching",
+    "packageVersion": "0.0.1",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
