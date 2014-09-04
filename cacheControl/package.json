@@ -1,0 +1,12 @@
+{
+    "name": "TwitterCacheControl",
+    "version": "0.0.1",
+    "author": {
+        "name": "Benjamin Dean",
+        "email": "benjamin@benjamindean.com",
+        "url": "https://benjamindean.com"
+    },
+    "engine": {
+        "node": "0.10.x"
+    }
+}
